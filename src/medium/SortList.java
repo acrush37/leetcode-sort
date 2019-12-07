@@ -1,9 +1,11 @@
 package medium;
 
+import java.util.*;
+
 /*
-    Sort a linked list using insertion sort.
+    Sort a linked list in O(n log n) time using constant space complexity.
  */
-public class InsertionSortList {
+public class SortList {
 
     public static void main(String... args) {
 
@@ -11,8 +13,8 @@ public class InsertionSortList {
         head.next = new ListNode(2);
         head.next.next = new ListNode(1);
         head.next.next.next = new ListNode(3);
-        InsertionSortList insertionSortList = new InsertionSortList();
-        System.out.println(insertionSortList.insertionSortList(head));
+        SortList sortList = new SortList();
+        System.out.println(sortList.sortList(head));
     }
 
     static class ListNode {
@@ -47,7 +49,7 @@ public class InsertionSortList {
         return node1;
     }
 
-    public ListNode insertionSortList(ListNode head) {
+    public ListNode sortList(ListNode head) {
 
         if (head == null) return null;
         ListNode node = new ListNode(head.val);
