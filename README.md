@@ -5,6 +5,7 @@ Sort
 |---| ----- | -------- | ---------- |
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Java](src/hard/MaximumGap.java)|Hard|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Java](src/medium/KClosestPointsToOrigin.java)|Medium|
+|524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Java](src/medium/LongestWordInDictionaryThroughDeleting.java)|Medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[Java](src/medium/WiggleSortII.java)|Medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Java](src/medium/LargestNumber.java)|Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[Java](src/medium/SortList.java)|Medium|
