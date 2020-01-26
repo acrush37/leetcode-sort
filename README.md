@@ -6,6 +6,7 @@ Sort
 |710|[Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/)|[Java](src/hard/RandomPickWithBlacklist.java)|Hard|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|[Java](src/hard/CountOfRangeSum.java)|Hard|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Java](src/hard/MaximumGap.java)|Hard|
+|1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Java](src/medium/FilterRestaurants.java)|Medium|
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Java](src/medium/SortMatrixDiagonally.java)|Medium|
 |1304|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Java](src/medium/AllElementsInTwoBinarySearchTrees.java)|Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Java](src/medium/KClosestPointsToOrigin.java)|Medium|
