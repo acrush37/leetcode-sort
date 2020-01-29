@@ -9,6 +9,7 @@ Sort
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Java](src/medium/FilterRestaurants.java)|Medium|
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Java](src/medium/SortMatrixDiagonally.java)|Medium|
 |1304|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Java](src/medium/AllElementsInTwoBinarySearchTrees.java)|Medium|
+|1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)|[Java](src/medium/DistantBarcodes.java)|Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Java](src/medium/KClosestPointsToOrigin.java)|Medium|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Java](src/medium/LongestWordInDictionaryThroughDeleting.java)|Medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[Java](src/medium/WiggleSortII.java)|Medium|
