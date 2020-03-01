@@ -7,6 +7,7 @@ Sort
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|[Java](src/hard/CountOfRangeSum.java)|Hard|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Java](src/hard/CountOfSmallerNumbersAfterSelf.java)|Hard|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Java](src/hard/MaximumGap.java)|Hard|
+|1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[Java](src/medium/RankTeamsByVotes.java)|Medium|
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Java](src/medium/FilterRestaurants.java)|Medium|
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Java](src/medium/SortMatrixDiagonally.java)|Medium|
 |1304|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Java](src/medium/AllElementsInTwoBinarySearchTrees.java)|Medium|
